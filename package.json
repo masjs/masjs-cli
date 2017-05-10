@@ -1,0 +1,16 @@
+{
+  "name": "masjs",
+  "version": "0.0.1",
+  "description": "command line application for leveling up your js skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
